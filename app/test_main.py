@@ -9,7 +9,7 @@ import pytest
         ("qwerty", False),
         ("Str@ng", False),
         ("11ooo#", False),
-        ("TooLongPass@1Aa!", False),
+        ("TooLongPass@1Aa!!", False),
         ("Has Space1!", False),
         ("Śpecial1@", False),
 
